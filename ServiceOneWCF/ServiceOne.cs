@@ -8,6 +8,11 @@ namespace ServiceOneWCF
 {
     public class ServiceOne : IServiceOne
     {
+        public int add(int x, int y)
+        {
+            return x + y;
+        }
+
         public string getMessage(string name)
         {
             return "Hola mundo " + name;

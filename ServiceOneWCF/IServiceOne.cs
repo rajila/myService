@@ -14,5 +14,8 @@ namespace ServiceOneWCF
     {
         [OperationContract]
         string getMessage(string name);
+
+        [OperationContract]
+        int add(int x, int y);
     }
 }
