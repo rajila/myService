@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceOneWCF", "ServiceOne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceWeb", "ServiceWeb\ServiceWeb.csproj", "{98BB1DB4-C381-4F69-B798-1EB5F1DE8816}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceTwo", "ServiceTwo\ServiceTwo.csproj", "{295D2929-6B7A-4342-A267-8111CB536541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceThree", "ServiceThree\ServiceThree.csproj", "{EB724A8E-03C8-4AE4-8335-4FD64D892A04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{98BB1DB4-C381-4F69-B798-1EB5F1DE8816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98BB1DB4-C381-4F69-B798-1EB5F1DE8816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98BB1DB4-C381-4F69-B798-1EB5F1DE8816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295D2929-6B7A-4342-A267-8111CB536541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295D2929-6B7A-4342-A267-8111CB536541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295D2929-6B7A-4342-A267-8111CB536541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295D2929-6B7A-4342-A267-8111CB536541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB724A8E-03C8-4AE4-8335-4FD64D892A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB724A8E-03C8-4AE4-8335-4FD64D892A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB724A8E-03C8-4AE4-8335-4FD64D892A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB724A8E-03C8-4AE4-8335-4FD64D892A04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
